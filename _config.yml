@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://f-105w.github.io
-title: f-105w
+title: F-105W
 tagline: A little time for security
-description: A site about Security, privacy and technology.
+description: Security, privacy and technology.
 paginate: 5
